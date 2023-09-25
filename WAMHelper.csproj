@@ -11,8 +11,6 @@
     <PackageReference Include="Microsoft.Identity.Client.Broker" Version="4.56.0" />
     <PackageReference Include="Microsoft.Identity.Client.NativeInterop" Version="0.13.8" />
     <PackageReference Include="System.Management.Automation" Version="7.2" />
-    <PackageReference Include="System.Threading" Version="4.3.0" />
-    <PackageReference Include="System.Threading.Tasks" Version="4.3.0" />
   </ItemGroup>
 
 </Project>

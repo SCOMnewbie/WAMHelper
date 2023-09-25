@@ -3,7 +3,6 @@ using Microsoft.Identity.Client;
 using Microsoft.Identity.Client.Broker;
 using System.Management.Automation;
 using System.Runtime.InteropServices;
-using System.Threading;
 
 [Cmdlet(VerbsCommon.Get, "WAMToken")]
 public class WAMHelper : PSCmdlet
